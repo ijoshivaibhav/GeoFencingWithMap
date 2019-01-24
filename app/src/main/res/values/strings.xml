@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeofenceExample</string>
+    <string name="maps_key">AIzaSyAi8CedpOyuXj6y74LCcqcawWpIj6SjcTE</string>
+</resources>
